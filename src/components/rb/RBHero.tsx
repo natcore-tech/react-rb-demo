@@ -7,7 +7,7 @@ export default function RBHero() {
     <section className="py-5 bg-light border-bottom">
       <Container>
         <h1 className="display-6 fw-bold mb-2">Home (React-Bootstrap)</h1>
-        <p className="text-secondary mb-4">Página compuesta por varios componentes.</p>
+        <p className="text-secondary mb-4">Página compuesta por varios componentes. Probando despliegue con CI/CD</p>
 
         <Stack direction="horizontal" gap={2} className="flex-wrap">
           <Button variant="primary">Acción</Button>
